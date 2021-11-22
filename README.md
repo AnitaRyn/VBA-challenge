@@ -5,7 +5,7 @@ I have managed to run the code through one year and generate information on year
 I have also applied color coding for yearly change and modified the number of decimals for percent change.
 Unfortunately I did not manage to run the code successfully through different sheets in the workbook.
 
-This was the code I tried to apply:
+This was the code I tried to apply to the workbook:
 
 Sub Dosomething()
     Dim xSh As Worksheet
